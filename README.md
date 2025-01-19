@@ -2,8 +2,7 @@
 
 ![Ghidra Logo](https://github.com/frostOWNER3/Ghidra/blob/main/ghidra.png)
 
-This project, Ghidra, is a Discord multi-tool specifically designed for testing WebHooks. It focuses on facilitating the analysis and testing of WebHooks potentially extracted from static configurations within malware samples. This allows security researchers and analysts to understand how these WebHooks function and the potential risks they pose.
-
+This project, Ghidra, is a Discord multi-tool specifically designed for testing WebHooks. It focuses on facilitating the analysis and testing of WebHooks potentially extracted from static configurations within malware samples. T\
 **Development Started:** January 18, 2025
 
 **Key Features:**
