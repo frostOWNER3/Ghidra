@@ -8,7 +8,8 @@ This project, Ghidra, is a Discord multi-tool specifically designed for testing 
 
 **Key Features:**
 
-*   WebHook Testing: Send test requests to WebHooks and analyze their responses.
+*   WebHook Testing: Send test requests, and spam WebHooks.
 *   Malware Analysis Support: Designed to work with WebHooks extracted from malware configurations.
 *   Discord Integration: Built as a Discord tool for convenient access and usage.
+*   Delete Webhooks: Annoy the Malware Skids and keep deleting their WebHooks!
 
